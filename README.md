@@ -37,7 +37,7 @@ npx dirsy
 
 ---
 
-## 🆕 v1.1.0 — Import Fix & Refactor
+## 🆕 v1.1.1 — Import Fix & Refactor
 
 ### 🧩 Overview
 This update fixes the import issue from earlier versions (v1.0.0) and completely refactors **dirsy** for the future.  
