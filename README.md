@@ -1,7 +1,9 @@
 # 📁 dirsy
 
 > A simple, **cross-platform** folder picker for Node.js — works on Windows, macOS, and Linux.
+
 > Provides a native **GUI** folder picker across Windows, macOS, and Linux.
+
 > **zero-dependency**
 ---
 
@@ -90,4 +92,4 @@ const folder = await dirsy.folder("Pick a folder");
 ---
 
 ### 🪶 License
-MIT © 2025 InerseItf — Made with ❤️
+MIT © 2025 Inverseitf — Made with ❤️
