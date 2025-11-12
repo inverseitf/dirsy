@@ -1,0 +1,32 @@
+{
+    "name": "dirsy",
+    "version": "1.1.0",
+    "description": "🧭 A zero-dependency, cross-platform native folder picker for Node.js (Windows, macOS, Linux).",
+    "main": "index.js",
+    "bin": {
+      "dirsy": "./cli.js"
+    },
+    "keywords": [
+      "folder",
+      "directory",
+      "picker",
+      "dialog",
+      "select",
+      "windows",
+      "macos",
+      "linux",
+      "nodejs",
+      "gui"
+    ],
+    "author": "InverseItf",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/InverseItf/dirsy.git"
+    },
+    "bugs": {
+      "url": "https://github.com/InverseItf/dirsy/issues"
+    },
+    "homepage": "https://github.com/InverseItf/dirsy#readme"
+  }
+  
