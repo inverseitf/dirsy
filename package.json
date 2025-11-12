@@ -1,6 +1,6 @@
 {
     "name": "dirsy",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "🧭 A zero-dependency, cross-platform native folder picker for Node.js (Windows, macOS, Linux).",
     "main": "index.js",
     "bin": {
